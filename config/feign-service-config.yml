@@ -1,5 +1,6 @@
 server:
    port: 8763
+name: wzhang
 spring:
    application:
         name: service-feign
