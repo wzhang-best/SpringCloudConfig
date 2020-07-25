@@ -1,0 +1,12 @@
+server:
+   port: 8763
+foo: wzhang
+spring:
+   application:
+        name: service-feign
+   zipkin:
+     base-url: http://localhost:9411
+eureka:
+   client:
+        serviceUrl:
+            defaultZone: http://localhost:8761/eureka/
