@@ -1,6 +1,6 @@
 server:
    port: 8763
-foo: wzhang
+foo: wzhang 2020-08-02
 spring:
    application:
         name: service-feign
